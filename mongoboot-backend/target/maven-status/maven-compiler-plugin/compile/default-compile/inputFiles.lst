@@ -1,0 +1,17 @@
+/Users/furkantanriverdi/Downloads/codecase/sahibinden-backend/src/main/java/com/sahibinden/internal/Backend.java
+/Users/furkantanriverdi/Downloads/codecase/sahibinden-backend/src/main/java/com/sahibinden/backend/repo/mongo/AdMongoRepository.java
+/Users/furkantanriverdi/Downloads/codecase/sahibinden-backend/src/main/java/com/sahibinden/backend/repo/mongo/CustomRepository.java
+/Users/furkantanriverdi/Downloads/codecase/sahibinden-backend/src/main/java/com/sahibinden/backend/repo/mongo/AdStatisticRepository.java
+/Users/furkantanriverdi/Downloads/codecase/sahibinden-backend/src/main/java/com/sahibinden/backend/mapper/AdMapper.java
+/Users/furkantanriverdi/Downloads/codecase/sahibinden-backend/src/main/java/com/sahibinden/backend/repo/mongo/DeliveryRepository.java
+/Users/furkantanriverdi/Downloads/codecase/sahibinden-backend/src/main/java/com/sahibinden/internal/config/MongoConfiguration.java
+/Users/furkantanriverdi/Downloads/codecase/sahibinden-backend/src/main/java/com/sahibinden/internal/BackendClone.java
+/Users/furkantanriverdi/Downloads/codecase/sahibinden-backend/src/main/java/com/sahibinden/internal/Main.java
+/Users/furkantanriverdi/Downloads/codecase/sahibinden-backend/src/main/java/com/sahibinden/backend/model/DeliveryDocument.java
+/Users/furkantanriverdi/Downloads/codecase/sahibinden-backend/src/main/java/com/sahibinden/backend/service/AdServiceImpl.java
+/Users/furkantanriverdi/Downloads/codecase/sahibinden-backend/src/main/java/com/sahibinden/internal/config/Config.java
+/Users/furkantanriverdi/Downloads/codecase/sahibinden-backend/src/main/java/com/sahibinden/backend/model/AdDocument.java
+/Users/furkantanriverdi/Downloads/codecase/sahibinden-backend/src/main/java/com/sahibinden/backend/model/AdStatisticDocument.java
+/Users/furkantanriverdi/Downloads/codecase/sahibinden-backend/src/main/java/com/sahibinden/backend/controller/AdController.java
+/Users/furkantanriverdi/Downloads/codecase/sahibinden-backend/src/main/java/com/sahibinden/backend/repo/mongo/CustomRepositoryImpl.java
+/Users/furkantanriverdi/Downloads/codecase/sahibinden-backend/src/main/java/com/sahibinden/internal/EmbeddedMongoDb.java

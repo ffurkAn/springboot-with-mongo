@@ -1,0 +1,12 @@
+spring:
+  profiles:
+    active: local
+  data:
+    mongodb:
+      host: localhost
+      database: test
+  logging:
+    level:
+      org.springframework.web: DEBUG
+      guru.springframework.controllers: DEBUG
+      org.hibernate: DEBUG

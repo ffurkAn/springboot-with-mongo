@@ -1,0 +1,8 @@
+com/sahibinden/common/dto/ad/MatchCriteria.class
+com/sahibinden/common/dto/ad/AdCreateRequest.class
+com/sahibinden/common/dto/ad/AdResponse.class
+com/sahibinden/common/dto/ad/AdStatistic.class
+com/sahibinden/common/dto/ad/ClientType.class
+com/sahibinden/common/dto/ad/Category.class
+com/sahibinden/common/service/AdService.class
+com/sahibinden/common/dto/ad/DeliveryResult.class
