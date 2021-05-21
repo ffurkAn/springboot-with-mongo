@@ -5,18 +5,18 @@
  - reklam gösterilme amacıyla istek yapılabilir
  - click veya impression isteği gönderilebilir
  
- Sizden beklenen sahibinden-backend altında AdService interfacesinin implemantastonunu yapmanızdir.
+ Sizden beklenen mongoboot-backend altında AdService interfacesinin implemantastonunu yapmanızdir.
  
  Projeyi Main classindan çalistirabilirsiniz.
  Projeyi çalıştırdığınız zaman localhost:9393 ve localhost:9494 üzerinde 2 tane 
- sahibinden-backend uygulaması ayağa kalkacaktır.Testler bu adreslere istek yapmaktadır.
+ mongoboot-backend uygulaması ayağa kalkacaktır.Testler bu adreslere istek yapmaktadır.
  Dolayısı ile testleri çalıştırdığınız zaman 2 instanceninde çalışıyor olması gerekmektedir.
  Proje içerisinde localhost:12345 üzerinden erisebileceginiz embededMongo databasesi ayağa
  kalkmaktadir. Embeded mongodan farklı bir database kullanamazsınız.Mongo database configurasyonlari
  yapılmıştır.Modellerinizi oluşturup kullanabilirsiniz. 
  
  
- sahibinden-common projesi altında request ve response objeleri tanımlanmıştır.
+ mongoboot-common projesi altında request ve response objeleri tanımlanmıştır.
  
  - AdCreateRequest : Reklam yaratmak için kullanılan request objesidir
  - AdResponse :Reklam yaratildiktan sonra response olarak dönülen objedir
@@ -82,7 +82,7 @@
  ## Testlerin çalıştırılması 
  
  ```
-    mvn exec:java -pl sahibinden-tests -Dexec.mainClass="com.sahibinden.Main" 
+    mvn exec:java -pl mongoboot-tests -Dexec.mainClass="com.mongoboot.Main" 
 ```
  
  # Gerekli Bilgiler
